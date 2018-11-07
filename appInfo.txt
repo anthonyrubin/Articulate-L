@@ -1,0 +1,7 @@
+Here the user can select the phonetic context to be targeted, such as, initial word position, intersyllabic word position, final word position
+
+This allows the user to cycle through stimulus words and corresponding images, allowing practice of accurate /L/ production at whatever pace is desired.  To hear the word spoken, tap the image.  To switch to memory game mode, touch the icon.
+
+This allows the user to practice /L/ articulation in the context of a visually appealing matching game.  To switch back to flashcard mode, touch the icon in the upper left hand corner.
+
+This application was developed by an ASHA certified speech-language pathologist.  It is intended for anyone who needs practice using the /L/ phoneme. It is suitable for those who omit the /L/ sound or produce it in a distorted way.  The app consists of 114 words and images.  Words have been chosen which give the user practive in /L/ production in various phonetic contexts.
